@@ -1,8 +1,8 @@
 # Project No. (2) : Zomato Bangalore Restaurants
 
 ### Description
-Now, companies can find out the real customer behaviors over the data.
-This is a web app to predict whether a customer will claim the insurance or not.
+Now, investors / customers can find out the recommended and successful restaurants over the data.
+This is a web app to predict if a restaurant is recommended / successful or not.
 
 ### User Inputs
 - Gender : This feature is a list that consist of 2 categories (Male , Female)
