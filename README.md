@@ -1,7 +1,7 @@
 # Project No. (2) : Zomato Bangalore Restaurants
 
 ### Description
-Now, investors or customers can find out the recommended and successful restaurants over the data.
+Now, investors or customers can find out the best restaurants over the data.
 This is a web app to predict if a restaurant is recommended / successful or not.
 
 ### User Inputs
