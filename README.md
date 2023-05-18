@@ -5,45 +5,20 @@ Now, investors or customers can find out the best restaurants over the data.
 This is a web app to predict if a restaurant is recommended / successful or not.
 
 ### User Inputs
-- Gender : This feature is a list that consist of 2 categories (Male , Female)
+- Approx Cost (for two people) : This feature should be a value that has a range between 0 and 100,000
 
-- Married : This feature is a list that consist of 2 categories (Yes , No)
+- Votes : This feature should be a value that has a range between 0 and 1,000,000
 
-- Vehicle Type : This feature is a list that consist of 2 categories (Sedan , Sports Car)
+- Does it support online order? : This feature is a list that consist of 2 categories (Yes , No)
 
-- Vehicle Year : This feature is a list that consist of 2 categories (After 2015 , Before 2015)
+- Does it support table reservation? : This feature is a list that consist of 2 categories (Yes , No)
 
-- Education : This feature is a list that consist of 3 categories (University , High School , None)
+- What is the type of meal? : This feature is a list that consist of 7 categories (Cafes , Delivery , Desserts, Dine-out, Drinks & nightlife, Pubs and bars, Buffet)
 
-- Income : This feature is a list that consist of 4 categories (Upper Class , Middle Class , Working Class , Poverty)
+- What is the neighborhood in which the restaurant is listed? : This feature is a list that consist of 30 categories (Upper Class , Middle Class , Working Class , Poverty)
 
-- Age : This feature is a list that consist of 4 ranges (16-25 , 26-39 , 40-64 , 65+)
-
-- Driving Experience : This feature is a list that consist of 4 ranges (0-9y , 10-19y , 20-29y , 30y+)
-
-- Postal Code : This feature is a list that consist of 4 categories (10238 , 32765 , 92101 , 21217)
-
-  `10238` is located in (Antakalnio seniūnija, Vilnius, Vilniaus miesto savivaldybė, Vilniaus apskritis, Lietuva)
-
-  `32765` is located in (Cristosende, A Teixeira, Terra de Caldelas, Ourense, Galicia, España)
-
-  `92101` is located in (San Diego, San Diego County, California, United States)
-
-  `21217` is located in (Kaštel Novi, Grad Kaštela, Splitsko-dalmatinska županija, Hrvatska)
-
-- Credit Score : This feature should be a value that has a range between 0 and 1
-
-- Children : This feature should be a value that express the customer's children count
-
-- Vehicle Ownership : This feature should be a value that express the order of car's ownership to customer
-
-- Annual Mileage : This feature should be a positive integer starting from 0
-
-- Speeding Violations : This feature should be a positive integer starting from 0
-
-- Duis : This feature should be a positive integer starting from 0
-
-- Past Accidents : This feature should be a positive integer starting from 0
+### Get Dataset
+[Download](https://drive.google.com/file/d/1w7Byhl3ZczZlthJcOjLioh7P_KuqEC_t/view?usp=sharing) - Zomato Bangalore Restaurants
 
 ### Watch Presentation
 [Explaining Video](https://youtu.be/BL8zfQqcFUk) - Zomato Bangalore Restaurants
