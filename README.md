@@ -2,7 +2,6 @@
 
 ### Description
 Now, investors / customers can find out the recommended and successful restaurants over the data.
-
 This is a web app to predict if a restaurant is recommended / successful or not.
 
 ### User Inputs
