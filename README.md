@@ -15,8 +15,7 @@ This is a web app to predict if a restaurant is recommended / successful or not.
 
 - What is the type of meal? : This feature is a list that consist of 7 categories (Cafes , Delivery , Desserts, Dine-out, Drinks & nightlife, Pubs and bars, Buffet)
 
-- What is the neighborhood in which the restaurant is listed? :
-This feature is a list that consist of 30 categories (Upper Class , Middle Class , Working Class , Poverty)
+- What is the neighborhood in which the restaurant is listed? : This feature is a list that consist of 30 categories (`Banashankari` , `Bannerghatta Road` , Basavanagudi , 'Bellandur')
 
 ### Get Dataset
 [Download](https://drive.google.com/file/d/1w7Byhl3ZczZlthJcOjLioh7P_KuqEC_t/view?usp=sharing) - Zomato Bangalore Restaurants
