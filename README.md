@@ -49,4 +49,4 @@ This is a web app to predict whether a customer will claim the insurance or not.
 [Explaining Video](https://youtu.be/BL8zfQqcFUk) - Zomato Bangalore Restaurants
 
 ### Predict Now
-[Application](https://mohammedhmalawyscientist-car-insurance-claim-classif-app-4kc8pn.streamlit.app/) - Zomato Bangalore Restaurants
+[Application](https://mohammedhmalawyscientist-zomato-bangalore-restaurant-app-530b7f.streamlit.app/) - Zomato Bangalore Restaurants
