@@ -21,7 +21,7 @@ This is a web app to predict if a restaurant is recommended / successful or not.
 [Download](https://drive.google.com/file/d/1w7Byhl3ZczZlthJcOjLioh7P_KuqEC_t/view?usp=sharing) - Zomato Bangalore Restaurants
 
 ### Watch Presentation
-[Explaining Video](https://youtu.be/BL8zfQqcFUk) - Zomato Bangalore Restaurants
+[Explaining Video](https://youtu.be/Q3bu8-4Tl0k) - Zomato Bangalore Restaurants
 
 ### Predict Now
 [Application](https://mohammedhmalawyscientist-zomato-bangalore-restaurant-app-530b7f.streamlit.app/) - Zomato Bangalore Restaurants
